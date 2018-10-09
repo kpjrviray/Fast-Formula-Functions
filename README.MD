@@ -1,5 +1,13 @@
 # Table of Contents
+* [ADD_DAYS](Functions/ADD_DAYS.md)
+* [ADD_MONTHS](Functions/ADD_MONTHS.md)
+* [ADD_YEARS](Functions/ADD_YEARS.md)
+* [DAYS_BETWEEN](Functions/DAYS_BETWEEN.md)
+* [GREATEST](Functions/GREATEST.md)
+* [MONTHS_BETWEEN](Functions/MONTHS_BETWEEN.md)
 * [INSTR](Functions/INSTR.md)
 * [LEAST](Functions/LEAST.md)
+* [MONTHS_BETWEEN](Functions/MONTHS_BETWEEN.md)
 * [ROUND](Functions/ROUND.md)
 * [SUBSTR](Functions/SUBSTR.md)
+* [TRUNC](Functions/TRUNC.md)
