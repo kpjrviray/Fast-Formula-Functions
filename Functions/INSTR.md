@@ -1,14 +1,14 @@
 # Function Name: INSTR
 
-#### Usage:
+### Usage:
 Indicates if a string is a substring
 <br><br>
 
-#### Compatible Modules:
+### Compatible Modules:
 All
 <br><br>
 
-#### Signature(s):
+### Signature(s):
 
 ```
 INSTR( String STR1, String STR2 )
@@ -29,7 +29,7 @@ Returns the location of STR2 within STR1 or returns 0 if the function does not f
 **Required Context:**<br>
 <br>
 
-#### Code Example(s):
+### Code Example(s):
 **Usage:**<br>
 `position` is the location where `delimiter` is located in `inputString`.
 
