@@ -11,9 +11,9 @@ Returns the last day of the month.
 ### Signature(s):
 
 ```
-LAST_DAY( date DAT )
+LAST_DAY( date DATE )
 ```
-**Usage:** The functions returns the last day of the month containing DAT<br>
+**Usage:** The functions returns the last day of the month containing DATE.<br>
 **Optional Parameters:**<br>
 **Return Type:** Date<br>
 **Required Context:**<br>

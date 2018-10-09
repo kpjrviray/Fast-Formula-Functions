@@ -1,3 +1,5 @@
+current doc is poor and needs a better explanation
+
 # Function Name: INITCAP
 
 ### Usage:

@@ -18,10 +18,3 @@ LENGTH( String TEXT )
 **Return Type:** Number<br>
 **Required Context:**<br>
 <br>
-
-### Code Example(s):
-**Usage:**<br>
-
-```
-
-```

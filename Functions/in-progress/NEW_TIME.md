@@ -5,7 +5,7 @@ Converts the date into a time zone formatted date.
 <br><br>
 
 ### Compatible Modules:
-
+ALL
 <br><br>
 
 ### Signature(s):

@@ -1,7 +1,7 @@
-# Function Name: LOWER
+# Function Name: TRIM
 
 ### Usage:
-Convert a string to all lower case.
+Trims leading and trailing spaces from a string
 <br><br>
 
 ### Compatible Modules:
@@ -11,9 +11,9 @@ ALL
 ### Signature(s):
 
 ```
-LOWER( String TEXT )
+TRIM( String TEXT )
 ```
-**Usage:** Converts the String TEXT string to all lower case.<br>
+**Usage:** Trims leading and trailing spaces from a character string TEXT.<br>
 **Optional Parameters:**<br>
 **Return Type:** String<br>
 **Required Context:**<br>
