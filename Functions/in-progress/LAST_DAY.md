@@ -1,14 +1,14 @@
 # Function Name: LAST-DAY
 
-#### Usage:
+### Usage:
 Returns the last day of the month.
 <br><br>
 
-#### Compatible Modules:
+### Compatible Modules:
 
 <br><br>
 
-#### Signature(s):
+### Signature(s):
 
 ```
 LAST_DAY( date DAT )

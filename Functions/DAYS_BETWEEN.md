@@ -1,14 +1,14 @@
 # Function Name: DAYS_BETWEEN
 
-#### Usage:
+### Usage:
 Returns the number of days between two dates.
 <br><br>
 
-#### Compatible Modules:
+### Compatible Modules:
 
 <br><br>
 
-#### Signature(s):
+### Signature(s):
 
 ```
 DAYS_BETWEEN( date DATE1, date DATE2 )
@@ -19,8 +19,7 @@ DAYS_BETWEEN( date DATE1, date DATE2 )
 **Required Context:**<br>
 <br>
 
-
-#### Code Example(s):
+### Code Example(s):
 **Usage:**<br>
 The example below returns the number of days between `1995/06/27` and `1995/07/03`. Since the first argument is a later date, the return value is `-5`.
 

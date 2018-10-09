@@ -1,14 +1,14 @@
 # Function Name: LEAST
 
-#### Usage:
+### Usage:
 Compare two types if variables to determine which one is the least in terms of value, date, or alphabetic order.
 <br><br>
 
-#### Compatible Modules:
+### Compatible Modules:
 All
 <br><br>
 
-#### Signature(s):
+### Signature(s):
 
 ```
 LEAST( date EXPR1, date EXPR2, date EXPR... )
@@ -38,7 +38,7 @@ LEAST( String EXPR1, String EXPR2, String EXPR... )
 **Required Context:**<br>
 <br>
 
-#### Code Example(s):
+### Code Example(s):
 **Usage:**<br>
 In the example below, `LEAST(80, hoursWorked)` is being used to compare the value of `hoursWorked` against `80`. The least of the two values will be used in the following expressions where `hoursAllowed` is subtracted and the result is saved to `extraHours`. 
 

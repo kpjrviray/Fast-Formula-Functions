@@ -1,14 +1,14 @@
 # Function Name: GREATEST
 
-#### Usage:
+### Usage:
 Compare two types if variables to determine which one is the GREATEST in terms of value, date, or alphabetic order.
 <br><br>
 
-#### Compatible Modules:
+### Compatible Modules:
 All
 <br><br>
 
-#### Signature(s):
+### Signature(s):
 
 ```
 GREATEST( date EXPR1, date EXPR2, date EXPR... )
@@ -20,12 +20,12 @@ GREATEST( date EXPR1, date EXPR2, date EXPR... )
 **Required Context:**<br>
 <br>
 ```
-GREATEST( Num EXPR1, Num EXPR2, Num EXPR... )
+GREATEST( Number EXPR1, Number EXPR2, Number EXPR... )
 ```
 
 **Usage:** Compares all the operands and returns the largest value.<br>
 **Optional Parameters:** date EXPR2<br>
-**Return Type:** Num<br>
+**Return Type:** Number<br>
 **Required Context**:<br>
 <br>
 ```

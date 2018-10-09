@@ -1,14 +1,14 @@
 # Function Name: MONTHS_BETWEEN
 
-#### Usage:
+### Usage:
 Returns the number of months between two dates.
 <br><br>
 
-#### Compatible Modules:
+### Compatible Modules:
 
 <br><br>
 
-#### Signature(s):
+### Signature(s):
 
 ```
 MONTHS_BETWEEN( date DATE1, date DATE2 )
@@ -22,7 +22,7 @@ the dates do not differ by a whole number of months.<br>
 <br>
 
 
-#### Code Example(s):
+### Code Example(s):
 **Usage:**<br>
 The example below returns the number of days between `1995/06/27` and `1995/09/27`. The return value is `3`.
 

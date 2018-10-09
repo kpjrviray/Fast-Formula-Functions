@@ -1,14 +1,14 @@
 # Function Name: NEW_TIME
 
-#### Usage:
+### Usage:
 Converts the date into a time zone formatted date.
 <br><br>
 
-#### Compatible Modules:
+### Compatible Modules:
 
 <br><br>
 
-#### Signature(s):
+### Signature(s):
 
 ```
 NEW_TIME( date DATE, string ZONE1, string ZONE2)

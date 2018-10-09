@@ -1,14 +1,14 @@
 # Function Name: TRUNC
 
-#### Usage:
+### Usage:
 Truncates a value to or a date to a specified date format. 
 <br><br>
 
-#### Compatible Modules:
+### Compatible Modules:
 
 <br><br>
 
-#### Signature(s):
+### Signature(s):
 
 ```
 TRUNC( Num N, Num PLACES ) OR TRUNCATE( Num N, Num PLACES )
@@ -28,7 +28,7 @@ TRUNC( date DATE, string FMT )
 **Required Context:**<br>
 <br>
 
-#### Code Example(s):
+### Code Example(s):
 **Usage:**<br>
 Truncates `2.3401` down to two deciamles and returns the valuie `2.34`.
 ```

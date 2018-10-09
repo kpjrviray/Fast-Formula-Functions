@@ -1,14 +1,14 @@
 # Function Name: SUBSTR
 
-#### Usage:
+### Usage:
 Returns a substring of a string.
 <br><br>
 
-#### Compatible Modules:
+### Compatible Modules:
 All
 <br><br>
 
-#### Signature(s):
+### Signature(s):
 
 ```
 SUBSTR( String STR, Number POS, Number LEN )
@@ -20,7 +20,7 @@ SUBSTR( String STR, Number POS, Number LEN )
 <br>
 
 
-#### Code Example(s):
+### Code Example(s):
 **Usage:**<br>
 `substring` will be a substring of `inputString` that starts at the position indiacted by `prevPostion` an has a length of `currPosition - prevPostion`.
 

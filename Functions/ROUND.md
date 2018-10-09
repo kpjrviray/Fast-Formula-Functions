@@ -1,14 +1,14 @@
 # Function Name: ROUND
 
-#### Usage:
+### Usage:
 Rounds a value or a date to a specified date format.
 <br><br>
 
-#### Compatible Modules:
+### Compatible Modules:
 All
 <br><br>
 
-#### Signature(s):
+### Signature(s):
 
 ```
 ROUND( Number Number, Number PLACES )
@@ -31,7 +31,7 @@ ROUND( date DATE, String FMT )
 <br>
 
 
-#### Code Example(s):
+### Code Example(s):
 **Usage:**<br>
 In the example below, `round(rate, 2)` is used to round `rate` to two decimal places.
 
