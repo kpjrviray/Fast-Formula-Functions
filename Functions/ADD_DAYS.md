@@ -13,9 +13,9 @@ Adds days to a date.
 ```
 ADD_DAYS( date DATE, Number N )
 ```
-**Usage:** Adds N whole days to DATE.<br>
+**Usage:** Adds `N` whole days to `DATE`.<br>
 **Optional Parameters:**<br>
-**Return Type:** Date<br>
+**Return Type:** `Date`<br>
 **Required Context:**<br>
 <br>
 

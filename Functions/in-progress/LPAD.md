@@ -38,7 +38,7 @@ A = LPAD ('hello', 10, 'B')
 <br>
 
 **Usage:**<br>
-In the example below, `A= 'hell'` because if no `PAD` argument is given and `N`is shorter than the input string, will return a substring of the string starting from the left.
+In the example below, `A = 'hell'` because if no `PAD` argument is given and `N` is shorter than the input string, will return a substring of the string starting from the left.
 ```
 /* A is set to 'hell' */
 A = LPAD ('hello', 4 )
