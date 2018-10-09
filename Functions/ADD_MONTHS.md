@@ -13,9 +13,9 @@ Adds months to a date.
 ```
 ADD_MONTHS( date DATE, Number N )
 ```
-**Usage:** Adds N whole months to DATE.<br>
+**Usage:** Adds `N` whole months to `DATE`.<br>
 **Optional Parameters:**<br>
-**Return Type:** Date<br>
+**Return Type:** `Date`<br>
 **Required Context:**<br>
 <br>
 
