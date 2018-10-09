@@ -4,7 +4,7 @@
 Return the length of a string in bytes.
 <br><br>
 
-### Compatible Modules:
+### Compatible Module(s):
 
 <br><br>
 

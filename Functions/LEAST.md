@@ -4,7 +4,7 @@
 Compare two types if variables to determine which one is the least in terms of value, date, or alphabetic order.
 <br><br>
 
-### Compatible Modules:
+### Compatible Module(s):
 All
 <br><br>
 

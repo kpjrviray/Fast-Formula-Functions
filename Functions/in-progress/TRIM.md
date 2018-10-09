@@ -4,7 +4,7 @@
 Trims leading and trailing spaces from a string
 <br><br>
 
-### Compatible Modules:
+### Compatible Module(s):
 ALL
 <br><br>
 

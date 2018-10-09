@@ -4,7 +4,7 @@
 Returns a substring of a string.
 <br><br>
 
-### Compatible Modules:
+### Compatible Module(s):
 All
 <br><br>
 

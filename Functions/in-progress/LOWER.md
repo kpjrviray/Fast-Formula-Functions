@@ -4,7 +4,7 @@
 Convert a string to all lower case.
 <br><br>
 
-### Compatible Modules:
+### Compatible Module(s):
 ALL
 <br><br>
 

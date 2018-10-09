@@ -4,7 +4,7 @@
 Replace character occruences in a text string with a new character.
 <br><br>
 
-### Compatible Modules:
+### Compatible Module(s):
 ALL
 <br><br>
 

@@ -4,7 +4,7 @@
 Converts the date into a time zone formatted date.
 <br><br>
 
-### Compatible Modules:
+### Compatible Module(s):
 ALL
 <br><br>
 

@@ -4,7 +4,7 @@
 Convert a string to all upper case.
 <br><br>
 
-### Compatible Modules:
+### Compatible Module(s):
 ALL
 <br><br>
 

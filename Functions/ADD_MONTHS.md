@@ -4,7 +4,7 @@
 Adds months to a date.
 <br><br>
 
-### Compatible Modules:
+### Compatible Module(s):
 
 <br><br>
 

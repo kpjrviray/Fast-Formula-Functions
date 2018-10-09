@@ -4,7 +4,7 @@
 Rounds a value or a date to a specified date format.
 <br><br>
 
-### Compatible Modules:
+### Compatible Module(s):
 All
 <br><br>
 

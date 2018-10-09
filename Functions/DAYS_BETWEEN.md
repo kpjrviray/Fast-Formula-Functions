@@ -4,7 +4,7 @@
 Returns the number of days between two dates.
 <br><br>
 
-### Compatible Modules:
+### Compatible Module(s):
 
 <br><br>
 

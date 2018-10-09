@@ -6,7 +6,7 @@ current doc is poor and needs a better explanation
 
 <br><br>
 
-### Compatible Modules:
+### Compatible Module(s):
 
 <br><br>
 

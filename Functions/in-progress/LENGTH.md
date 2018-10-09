@@ -4,7 +4,7 @@
 Returns the length of a string.
 <br><br>
 
-### Compatible Modules:
+### Compatible Module(s):
 
 <br><br>
 

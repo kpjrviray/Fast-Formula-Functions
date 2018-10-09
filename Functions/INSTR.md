@@ -4,7 +4,7 @@
 Indicates if a string is a substring
 <br><br>
 
-### Compatible Modules:
+### Compatible Module(s):
 All
 <br><br>
 

@@ -4,7 +4,7 @@
 Truncates a value to or a date to a specified date format. 
 <br><br>
 
-### Compatible Modules:
+### Compatible Module(s):
 
 <br><br>
 

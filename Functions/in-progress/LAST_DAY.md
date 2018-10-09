@@ -4,7 +4,7 @@
 Returns the last day of the month.
 <br><br>
 
-### Compatible Modules:
+### Compatible Module(s):
 
 <br><br>
 
