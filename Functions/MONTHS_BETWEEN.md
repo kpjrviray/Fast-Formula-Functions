@@ -13,14 +13,11 @@ Returns the number of months between two dates.
 ```
 MONTHS_BETWEEN( date DATE1, date DATE2 )
 ```
-**Usage:** Returns the number of months between DATE1 and DAET2. If DATE1 is later than DATE2, the result is a positive number. If DATE1
-is earlier than DATE2, the result is a negative number. The return value has a numeric data type that can contain a fraction if
-the dates do not differ by a whole number of months.<br>
+**Usage:** Returns the number of months between `DATE1` and `DATE2`. If `DATE1` is later than `DATE2`, the result is a positive number. If `DATE1` is earlier than `DATE2`, the result is a negative number. The return value has a numeric data type that can contain a fraction if the dates do not differ by a whole number of months.<br>
 **Optional Parameters:**<br>
-**Return Type:** Date<br>
+**Return Type:** `Date`<br>
 **Required Context:**<br>
 <br>
-
 
 ### Code Example(s):
 **Usage:**<br>

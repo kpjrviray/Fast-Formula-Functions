@@ -15,8 +15,8 @@ LEAST( date EXPR1, date EXPR2, date EXPR... )
 ```
 
 **Usage:** Compares the operands and returns the earliest date.<br>
-**Optional Parameters:** date EXPR2<br>
-**Return Type:** Date<br>
+**Optional Parameters:** `date EXPR2`<br>
+**Return Type:** `Date`<br>
 **Required Context:**<br>
 <br>
 ```
@@ -24,8 +24,8 @@ LEAST( Number EXPR1, Number EXPR2, Number EXPR... )
 ```
 
 **Usage:** Compares all the operands and returns the smallest value.<br>
-**Optional Parameters:** date EXPR2<br>
-**Return Type:** Number<br>
+**Optional Parameters:** `date EXPR2`<br>
+**Return Type:** `Number`<br>
 **Required Context**:<br>
 <br>
 ```
@@ -33,8 +33,8 @@ LEAST( String EXPR1, String EXPR2, String EXPR... )
 ```
 
 **Usage:** Compares the values of all the text string operands. Returns the first string in alphabetic order from among its operands.<br>
-**Optional Parameters:** date EXPR2<br>
-**Return Type:** String<br>
+**Optional Parameters:** `date EXPR2`<br>
+**Return Type:** `String`<br>
 **Required Context:**<br>
 <br>
 
