@@ -1,4 +1,4 @@
-# Function Name: 
+# Function Name: INITCAP
 
 ### Usage:
 
@@ -19,8 +19,10 @@
 **Required Context:**<br>
 <br>
 
+
 ### Code Example(s):
 **Usage:**<br>
+
 
 ```
 

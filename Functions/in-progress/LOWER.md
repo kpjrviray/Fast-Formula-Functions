@@ -1,7 +1,7 @@
-# Function Name: 
+# Function Name: LOWER
 
 ### Usage:
-
+Convert a string to lower case.
 <br><br>
 
 ### Compatible Modules:
@@ -11,11 +11,11 @@
 ### Signature(s):
 
 ```
-( )
+LOWER( String TEXT )
 ```
-**Usage:**<br>
+**Usage:** Converts the String TEXT string to lower case.<br>
 **Optional Parameters:**<br>
-**Return Type:**<br>
+**Return Type:** String<br>
 **Required Context:**<br>
 <br>
 
