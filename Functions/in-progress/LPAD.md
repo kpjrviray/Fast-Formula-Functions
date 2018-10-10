@@ -13,9 +13,9 @@ ALL
 ```
 LPAD( String EXPR, Number N, Number PAD )
 ```
-**Usage:** Returns the text string operand EXPR left-padded to length N with the sequence of characters in PAD. The default value for PAD is a blank. If EXPR is longer than N, then LPAD returns the portion of EXPR that fits in n.
+**Usage:** Returns the text string operand `EXPR` left-padded to length `N` with the sequence of characters in `PAD`. The default value for `PAD` is a blank. If `EXPR` is longer than `N`, then LPAD returns the portion of `EXPR` that fits in n.
 <br>
-**Optional Parameters:** Number PAD<br>
+**Optional Parameters:** `Number PAD`<br>
 **Return Type:**<br>
 **Required Context:**<br>
 <br>

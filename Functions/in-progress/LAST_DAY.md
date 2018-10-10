@@ -5,7 +5,7 @@ Returns the last day of the month.
 <br><br>
 
 ### Compatible Module(s):
-
+ALL
 <br><br>
 
 ### Signature(s):
@@ -13,8 +13,8 @@ Returns the last day of the month.
 ```
 LAST_DAY( date DATE )
 ```
-**Usage:** The functions returns the last day of the month containing DATE.<br>
+**Usage:** The functions returns the last day of the month containing `DATE`.<br>
 **Optional Parameters:**<br>
-**Return Type:** Date<br>
+**Return Type:** `Date`<br>
 **Required Context:**<br>
 <br>

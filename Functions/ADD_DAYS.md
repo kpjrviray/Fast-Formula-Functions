@@ -9,7 +9,6 @@ Adds days to a date.
 <br><br>
 
 ### Signature(s):
-
 ```
 ADD_DAYS( date DATE, Number N )
 ```

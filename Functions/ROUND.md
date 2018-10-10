@@ -33,7 +33,7 @@ ROUND( date DATE, String FMT )
 
 ### Code Example(s):
 **Usage:**<br>
-In the example below, `round(rate, 2)` is used to round `rate` to two decimal places.
+In the example below, `round(rate, 2)` is used to round `rate` to `2` decimal places.
 ```
 rate = round(rate, 2)
 ```
