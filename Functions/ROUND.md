@@ -29,7 +29,6 @@ ROUND( date DATE, String FMT )
 **Required Context:**<br>
 <br>
 
-
 ### Code Example(s):
 **Usage:**<br>
 In the example below, `round(rate, 2)` is used to round `rate` to `2` decimal places.
