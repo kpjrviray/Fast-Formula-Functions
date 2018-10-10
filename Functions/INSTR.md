@@ -9,7 +9,6 @@ All
 <br><br>
 
 ### Signature(s):
-
 ```
 INSTR( String STR1, String STR2 )
 ```

@@ -9,7 +9,6 @@ ALL
 <br><br>
 
 ### Signature(s):
-
 ```
 REPLACE( String EXPR, String SEARCH, String REPLACEMENT )
 ```

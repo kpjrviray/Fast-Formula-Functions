@@ -5,11 +5,10 @@ Returns the number of days between two dates.
 <br><br>
 
 ### Compatible Module(s):
-
+ALL
 <br><br>
 
 ### Signature(s):
-
 ```
 DAYS_BETWEEN( date DATE1, date DATE2 )
 ```
@@ -22,7 +21,6 @@ DAYS_BETWEEN( date DATE1, date DATE2 )
 ### Code Example(s):
 **Usage:**<br>
 The example below returns the number of days between `1995/06/27` and `1995/07/03`. Since the first argument is a later date, the return value is `-5`.
-
 ```
 DAYS_BETWEEN('1995/06/27 00:00:00' (date), '1995/07/03 00:00:00' (date))
 ```

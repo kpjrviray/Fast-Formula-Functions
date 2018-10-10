@@ -9,7 +9,6 @@ Adds years to a date.
 <br><br>
 
 ### Signature(s):
-
 ```
 ADD_MONTHS( date DATE, Number N )
 ```
@@ -22,7 +21,6 @@ ADD_MONTHS( date DATE, Number N )
 ### Code Example(s):
 **Usage:**<br>
 The example below adds `6` years to the date `30-DEC-1990`. The return value is `30-DEC-1996`
-
 ```
 ADD_YEARS ('30-DEC-1990' (date), 6)
 ```

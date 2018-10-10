@@ -5,11 +5,10 @@ Truncates a value to or a date to a specified date format.
 <br><br>
 
 ### Compatible Module(s):
-
+ALL
 <br><br>
 
 ### Signature(s):
-
 ```
 TRUNC( Number N, Number PLACES ) OR TRUNCATE( Number N, Number PLACES )
 ```

@@ -5,11 +5,10 @@ Returns a substring of a string.
 <br><br>
 
 ### Compatible Module(s):
-All
+ALL
 <br><br>
 
 ### Signature(s):
-
 ```
 SUBSTR( String STR, Number POS, Number LEN )
 ```
@@ -18,7 +17,6 @@ SUBSTR( String STR, Number POS, Number LEN )
 **Return Type:** `String`<br>
 **Required Context:**<br>
 <br>
-
 
 ### Code Example(s):
 **Usage:**<br>

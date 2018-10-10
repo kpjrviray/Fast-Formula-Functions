@@ -9,7 +9,6 @@ ALL
 <br><br>
 
 ### Signature(s):
-
 ```
 LPAD( String EXPR, Number N, Number PAD )
 ```
@@ -22,7 +21,7 @@ LPAD( String EXPR, Number N, Number PAD )
 
 ### Code Example(s):
 **Usage:**<br>
-In the example below, `A` is set to `XYXYXhello`. `XY` is appedned to to `hello` until `A` becomes `10` characters long. Hence why the left padding is `XYXYX`.
+In the example below, `A` is set to `XYXYXhello`. `XY` is appended to the left of `hello` until `A` becomes `10` characters long. Hence why the left padding is `XYXYX`.
 ```
 /* A is set to 'XYXYXhello' */
 A = LPAD ('hello', 10, 'XY')

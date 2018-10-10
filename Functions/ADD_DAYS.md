@@ -21,7 +21,6 @@ ADD_DAYS( date DATE, Number N )
 ### Code Example(s):
 **Usage:**<br>
 The example below adds `6` days to the date `30-DEC-1990`. The return value is `5-JAN-1991`
-
 ```
 ADD_DAYS ('30-DEC-1990' (date), 6)
 ```

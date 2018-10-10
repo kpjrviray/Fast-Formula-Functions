@@ -5,11 +5,10 @@ Rounds a value or a date to a specified date format.
 <br><br>
 
 ### Compatible Module(s):
-All
+ALL
 <br><br>
 
 ### Signature(s):
-
 ```
 ROUND( Number NUMBER, Number PLACES )
 ```

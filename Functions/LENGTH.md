@@ -9,7 +9,6 @@ ALL
 <br><br>
 
 ### Signature(s):
-
 ```
 LENGTH( String TEXT )
 ```

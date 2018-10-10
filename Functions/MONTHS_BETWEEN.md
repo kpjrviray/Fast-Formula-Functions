@@ -5,11 +5,10 @@ Returns the number of months between two dates.
 <br><br>
 
 ### Compatible Module(s):
-
+ALL
 <br><br>
 
 ### Signature(s):
-
 ```
 MONTHS_BETWEEN( date DATE1, date DATE2 )
 ```
@@ -22,7 +21,6 @@ MONTHS_BETWEEN( date DATE1, date DATE2 )
 ### Code Example(s):
 **Usage:**<br>
 The example below returns the number of days between `1995/06/27` and `1995/09/27`. The return value is `3`.
-
 ```
 DAYS_BETWEEN('1995/06/27 00:00:00' (date), '1995/09/27 00:00:00' (date))
 ```
