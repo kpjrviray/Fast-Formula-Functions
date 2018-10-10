@@ -12,7 +12,7 @@ ALL
 ```
 ROUND( Number NUMBER, Number PLACES )
 ```
-**Usage:** Round `NUMBER` after a certain number of decimal `PLACES`.<br>
+**Usage:** Round `NUMBER` after a certain number of decimal `PLACES`. Rounding follows common conventions.<br>
 **Optional Parameters:** `Number PLACES`<br>
 **Return Type:** Number<br>
 **Required Context:**<br>

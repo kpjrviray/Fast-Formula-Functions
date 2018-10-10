@@ -9,7 +9,6 @@
 <br><br>
 
 ### Signature(s):
-
 ```
 ( )
 ```
@@ -21,7 +20,6 @@
 
 ### Code Example(s):
 **Usage:**<br>
-
 ```
 
 ```
