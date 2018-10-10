@@ -29,5 +29,5 @@ ROUND_UP(2.3401, 2)
 **Usage:**<br>
 The example below returns `2.34`. Note that the `.3400` was not rounded because of the trailing zero's.
 ```
-ROUND_UP(2.3401, 2)
+ROUND_UP(2.3400, 2)
 ```
