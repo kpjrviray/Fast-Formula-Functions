@@ -14,7 +14,7 @@ DATE_TO_TEXT( Date DATE, String FORMAT )
 TO_CHAR( Date DATE, String FORMAT )
 TO_TEXT( Date DATE, String FORMAT )
 ```
-**Usage:** Converts DATE to a character string with format specified by FORMAT. <br>
+**Usage:** Converts `DAT` to a character string with format specified by `FORMAT`.<br>
 **Optional Parameters:** `String FORMAT`<br>
 **Return Type:** `String`<br>
 **Required Context:**<br>

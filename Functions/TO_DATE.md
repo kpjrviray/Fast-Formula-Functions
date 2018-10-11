@@ -17,9 +17,3 @@ TO_DATE( String DATE , String FORMAT)
 **Return Type:**`Date`<br>
 **Required Context:**<br>
 <br>
-
-### Code Example(s):
-**Usage:**<br>
-```
-
-```
