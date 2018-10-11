@@ -20,12 +20,12 @@ ROUND( Number NUMBER, Number PLACES )
 
 // verify if below is supported
 ```
-ROUND( date DATE, String FMT )
+ROUND( Date DATE, String FMT )
 ```
 **Usage:** Returns the result of rounding `DATE` according to string `FMT`. The default format is DDD, which represents the nearest day.
 <br>
-**Optional Parameters:** String FMT<br>
-**Return Type:** Date<br>
+**Optional Parameters:** `String FMT`<br>
+**Return Type:** `Date`<br>
 **Required Context:**<br>
 <br>
 

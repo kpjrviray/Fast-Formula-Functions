@@ -10,7 +10,7 @@ ALL
 
 ### Signature(s):
 ```
-MONTHS_BETWEEN( date DATE1, date DATE2 )
+MONTHS_BETWEEN( Date DATE1, Date DATE2 )
 ```
 **Usage:** Returns the number of months between `DATE1` and `DATE2`. If `DATE1` is later than `DATE2`, the result is a positive number. If `DATE1` is earlier than `DATE2`, the result is a negative number. The return value has a numeric data type that can contain a fraction if the dates do not differ by a whole number of months.<br>
 **Optional Parameters:**<br>

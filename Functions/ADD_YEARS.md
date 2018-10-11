@@ -5,12 +5,12 @@ Adds years to a date.
 <br><br>
 
 ### Compatible Module(s):
-
+ALL
 <br><br>
 
 ### Signature(s):
 ```
-ADD_MONTHS( date DATE, Number N )
+ADD_MONTHS( Date DATE, Number N )
 ```
 **Usage:** Adds `N` whole years to `DATE`.<br>
 **Optional Parameters:**<br>

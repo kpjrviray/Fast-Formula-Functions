@@ -10,7 +10,7 @@ ALL
 
 ### Signature(s):
 ```
-DAYS_BETWEEN( date DATE1, date DATE2 )
+DAYS_BETWEEN( Date DATE1, Date DATE2 )
 ```
 **Usage:** Returns the number of days between `DATE1` and `DATE2`. If `DATE1` is later than `DATE2` then the result is a positive number. If `DATE1` is earlier than `DATE2` then the result is a negative number<br>
 **Optional Parameters:**<br>

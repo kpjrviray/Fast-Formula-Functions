@@ -9,13 +9,12 @@ ALL
 <br><br>
 
 ### Signature(s):
-
 ```
-NEW_TIME( date DATE, string ZONE1, string ZONE2)
+NEW_TIME( Date DATE, String ZONE1, String ZONE2)
 ```
-**Usage:** Converts DATE in time zone ZONE1 to the date and time zone according to ZONE2.<br>
+**Usage:** Converts `DATE` in time zone `ZONE1` to the date and time zone according to `ZONE2`.<br>
 **Optional Parameters:**<br>
-**Return Type:** date<br>
+**Return Type:** `Date`<br>
 **Required Context:**<br>
 <br>
 
@@ -65,8 +64,6 @@ NEW_TIME( date DATE, string ZONE1, string ZONE2)
 
 #### Code Example(s):
 **Usage:**<br>
-
-
 ```
 
 ```

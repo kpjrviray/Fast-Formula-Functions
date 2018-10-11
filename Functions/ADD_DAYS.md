@@ -5,12 +5,12 @@ Adds days to a date.
 <br><br>
 
 ### Compatible Module(s):
-
+ALL
 <br><br>
 
 ### Signature(s):
 ```
-ADD_DAYS( date DATE, Number N )
+ADD_DAYS( Date DATE, Number N )
 ```
 **Usage:** Adds `N` whole days to `DATE`.<br>
 **Optional Parameters:**<br>
