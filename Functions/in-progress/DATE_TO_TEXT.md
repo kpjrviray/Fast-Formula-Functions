@@ -1,7 +1,7 @@
 # Function Name: DATE_TO_TEXT
 
 ### Usage:
-Coverts a date type to a formatted string type.
+Coverts a date variable type to a formatted string type.
 <br><br>
 
 ### Compatible Module(s):
