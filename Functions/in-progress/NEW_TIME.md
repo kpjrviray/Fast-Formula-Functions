@@ -20,7 +20,7 @@ NEW_TIME( Date DATE, String ZONE1, String ZONE2)
 
 #### Time Zones:
 |Time Zone	|	Description										|
-|:---------:|:-------------------------------------------------:|
+|:----------|:--------------------------------------------------|
 |AST		|	Atlantic Standard Time							|
 |BST 		|	Bering Standard Time							|
 |CST or CDT	|	Central Standard or Daylight Time				|
