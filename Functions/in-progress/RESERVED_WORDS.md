@@ -1,5 +1,7 @@
 # Reserved Words
 
+**You must not use the following reserved words as the names of variables:**
+
 | Source				| Reserved Words 		| 
 |:----------------------|:----------------------|
 | Statements			| ALIAS					|
