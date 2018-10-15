@@ -1,4 +1,7 @@
-# Table of Contents
+# Reserved Words
+[Reserved Words](Other/RESERVED_WORDS.md)
+
+# Table of All Functions
 * [ABS](Functions/ABS.md)
 * [ADD_DAYS](Functions/ADD_DAYS.md)
 * [ADD_MONTHS](Functions/ADD_MONTHS.md)
