@@ -1,7 +1,7 @@
 # Reserved Words
 [Reserved Words](Other/RESERVED_WORDS.md)
 
-# Functions for Text Handling and Manipulation
+# Functions for String Handling and Manipulation
 * [CHR](Functions/CHR.md)
 * [GREATEST](Functions/GREATEST.md)
 * [INSTR](Functions/INSTR.md)
@@ -19,13 +19,38 @@
 * [UPPER](Functions/UPPER.md)
 
 # Functions for Numeric Expressions
-
+* [ABS](Functions/ABS.md)
+* [FLOOR](Functions/FLOOR.md)
+* [GREATEST](Functions/GREATEST.md)
+* [LEAST](Functions/LEAST.md)
+* [MOD](Functions/MOD.md)
+* [POWER](Functions/POWER.md)
+* [ROUND](Functions/ROUND.md)
+* [TRUNC](Functions/TRUNC.md)
+* [GREATEST](Functions/GREATEST.md)
 
 # Functions for Date Handling and Manipulation
+* [ADD_DAYS](Functions/ADD_DAYS.md)
+* [ADD_MONTHS](Functions/ADD_MONTHS.md)
+* [ADD_YEARS](Functions/ADD_YEARS.md)
+* [DAYS_BETWEEN](Functions/DAYS_BETWEEN.md)
+* [LAST_DAY](Functions/LAST_DAY.md)
+* [LEAST](Functions/LEAST.md)
+* [MONTHS_BETWEEN](Functions/MONTHS_BETWEEN.md)
+* [NEW_TIME](Functions/NEW_TIME.md)
 
+// need to do next day
+* [NEXT_DAY](Functions/NEXT_DAY.md)
+
+* [ROUND](Functions/ROUND.md)
+* [TRUNC](Functions/TRUNC.md)
 
 # Functions for Date Conversion
-
+* [DATE_TO_TEXT](Functions/DATE_TO_TEXT.md)
+* [](Functions/.md)
+* [TO_CHAR](Functions/TO_CHAR.md)
+* [TO_DATE](Functions/TO_DATE.md)
+* [TO_NUMBER](Functions/TO_NUMBER.md)
 
 # Table of All Functions
 * [ABS](Functions/ABS.md)
@@ -47,6 +72,10 @@
 * [LTRIM](Functions/LTRIM.md)
 * [MOD](Functions/MOD.md)
 * [MONTHS_BETWEEN](Functions/MONTHS_BETWEEN.md)
+* [NEW_TIME](Functions/NEW_TIME.md)
+
+* [NEXT_DAY](Functions/NEXT_DAY.md)
+
 * [POWER](Functions/POWER.md)
 * [REPLACE](Functions/REPLACE.md)
 * [ROUND](Functions/ROUND.md)
