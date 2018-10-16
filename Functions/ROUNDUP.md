@@ -10,7 +10,8 @@ ALL
 
 ### Signature(s):
 ```
-ROUNDUP( Number M, Number N ) or ROUND_UP(Number M, Number N)
+ROUNDUP( Number M, Number N )
+ROUND_UP( Number M, Number N )
 ```
 **Usage:** Rounds `M` up to `N` decimal places. The default number of places is 0.<br>
 **Optional Parameters:** `Number N`<br>

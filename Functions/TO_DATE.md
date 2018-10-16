@@ -10,7 +10,7 @@ ALL
 
 ### Signature(s):
 ```
-TO_DATE( String DATE , String FORMAT)
+TO_DATE( String DATE , String FORMAT )
 ```
 **Usage:** Converts the character string `DATE` in the specified `FORMAT` to a date. If no `FORMAT` is specified then `DATE` must have a valid date structure such as `YYYY-MM-DD`.<br>
 **Optional Parameters:** `String FORMAT`<br>

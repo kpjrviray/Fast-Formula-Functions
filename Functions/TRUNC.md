@@ -10,7 +10,8 @@ ALL
 
 ### Signature(s):
 ```
-TRUNC( Number N, Number PLACES ) OR TRUNCATE( Number N, Number PLACES )
+TRUNC( Number N, Number PLACES ) 
+TRUNCATE( Number N, Number PLACES )
 ```
 **Usage:**Truncates `N` down to `PLACES` decimal places. The default number of places is 0.<br>
 **Optional Parameters:**<br>

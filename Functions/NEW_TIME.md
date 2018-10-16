@@ -10,7 +10,7 @@ ALL
 
 ### Signature(s):
 ```
-NEW_TIME( Date DATE, String ZONE1, String ZONE2)
+NEW_TIME( Date DATE, String ZONE1, String ZONE2 )
 ```
 **Usage:** Converts `DATE` in time zone `ZONE1` to the date and time zone according to `ZONE2`.<br>
 **Optional Parameters:**<br>
@@ -31,9 +31,3 @@ NEW_TIME( Date DATE, String ZONE1, String ZONE2)
 |NST 		|	Newfoundland Standard Time						|
 |PST or PDT	| 	Pacific Standard or Daylight Time				|
 |YST 		|	Yukon Standard Time								|
-
-#### Code Example(s):
-**Usage:**<br>
-```
-
-```
