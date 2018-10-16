@@ -14,7 +14,7 @@ NEXT_DAY( Date DATE, String WEEKDAY )
 ```
 **Usage:** Return the first date following `DATE` that matches `WEEKDAY`.<br>
 **Optional Parameters:**<br>
-**Return Type:**<`Date`br>
+**Return Type:**`Date`<br>
 **Required Context:**<br>
 <br>
 ```
