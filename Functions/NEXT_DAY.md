@@ -17,4 +17,3 @@ NEXT_DAY( Date DATE, String WEEKDAY )
 **Return Type:** `Date`<br>
 **Required Context:**<br>
 <br>
-```
