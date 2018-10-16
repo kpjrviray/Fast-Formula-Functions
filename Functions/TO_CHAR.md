@@ -33,7 +33,7 @@ TO_TEXT( Number N )
 TO_CHAR( Date DATE, String FORMAT )
 TO_TEXT( Date DATE, String FORMAT )
 ```
-**Usage:** The date `DATE` is coverted to a formatted string according to `FORMAT`.<br>
+**Usage:** The date `DATE` is coverted to a formatted string according to date `FORMAT`.<br>
 **Optional Parameters:**<br>
 **Return Type:**`String`<br>
 **Required Context:**<br>
