@@ -38,16 +38,13 @@
 * [LEAST](Functions/LEAST.md)
 * [MONTHS_BETWEEN](Functions/MONTHS_BETWEEN.md)
 * [NEW_TIME](Functions/NEW_TIME.md)
-
-// need to do next day
 * [NEXT_DAY](Functions/NEXT_DAY.md)
-
 * [ROUND](Functions/ROUND.md)
 * [TRUNC](Functions/TRUNC.md)
 
 # Functions for Date Conversion
 * [DATE_TO_TEXT](Functions/DATE_TO_TEXT.md)
-* [](Functions/.md)
+* [NUM_TO_CHAR](Functions/NUM_TO_CHAR.md)
 * [TO_CHAR](Functions/TO_CHAR.md)
 * [TO_DATE](Functions/TO_DATE.md)
 * [TO_NUMBER](Functions/TO_NUMBER.md)
@@ -73,9 +70,8 @@
 * [MOD](Functions/MOD.md)
 * [MONTHS_BETWEEN](Functions/MONTHS_BETWEEN.md)
 * [NEW_TIME](Functions/NEW_TIME.md)
-
 * [NEXT_DAY](Functions/NEXT_DAY.md)
-
+* [NUM_TO_CHAR](Functions/NUM_TO_CHAR.md)
 * [POWER](Functions/POWER.md)
 * [REPLACE](Functions/REPLACE.md)
 * [ROUND](Functions/ROUND.md)

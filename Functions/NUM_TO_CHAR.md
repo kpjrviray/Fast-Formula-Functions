@@ -19,11 +19,3 @@ Official Oracle documentation states that this function is similar to their [SQL
 **Return Type:** `String`<br>
 **Required Context:**<br>
 <br>
-
-** docs say fromat is not an optional param??
-
-### Code Example(s):
-**Usage:**<br>
-```
-
-```
